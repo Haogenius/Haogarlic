@@ -1,0 +1,175 @@
+item {
+    id: 1
+    name: 'disposable box'
+}
+
+item {
+    id: 2
+    name: 'soiled plastic'
+}
+
+item {
+    id: 3
+    name: 'cigarette end'
+}
+
+item {
+    id: 4
+    name: 'broken bowl'
+}
+
+item {
+    id: 5
+    name: 'chopstick and toothpick'
+}
+
+item {
+    id: 6
+    name: 'leftover'
+}
+
+item {
+    id: 7
+    name: 'bone'
+}
+
+item {
+    id: 8
+    name: 'fruit flesh'
+}
+
+item {
+    id: 9
+    name: 'fruit peel'
+}
+
+item {
+    id: 10
+    name: 'tea leaves'
+}
+
+item {
+    id: 11
+    name: 'vegetable'
+}
+
+item {
+    id: 12
+    name: 'egg'
+}
+
+item {
+    id: 13
+    name: 'fishbone'
+}
+
+item {
+    id: 14
+    name: 'portable battery'
+}
+
+item {
+    id: 15
+    name: 'handbag'
+}
+
+item {
+    id: 16
+    name: 'makeup bottle'
+}
+
+item {
+    id: 17
+    name: 'platic toy'
+}
+
+item {
+    id: 18
+    name: 'platic bowl'
+}
+
+item {
+    id: 19
+    name: 'platic hanger'
+}
+
+item {
+    id: 20
+    name: 'paper box'
+}
+
+item {
+    id: 21
+    name: 'wire'
+}
+
+item {
+    id: 22
+    name: 'plug'
+}
+
+item {
+    id: 23
+    name: 'old clothes'
+}
+
+item {
+    id: 24
+    name: 'pop-top can'
+}
+
+item {
+    id: 25
+    name: 'plush toy'
+}
+
+item {
+    id: 26
+    name: 'glass cup'
+}
+
+item {
+    id: 27
+    name: 'shoes'
+}
+
+item {
+    id: 28
+    name: 'glass bottle'
+}
+
+item {
+    id: 29
+    name: 'metal can'
+}
+
+item {
+    id: 30
+    name: 'plastic bottle'
+}
+
+item {
+    id: 31
+    name: 'oil bottle'
+}
+
+item {
+    id: 32
+    name: 'dry cell'
+}
+
+item {
+    id: 33
+    name: 'ointment'
+}
+
+item {
+    id: 34
+    name: 'expired drug'
+}
+
+item {
+    id: 35
+    name: 'paper'
+}
+
